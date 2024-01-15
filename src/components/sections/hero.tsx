@@ -57,12 +57,12 @@ export default function Hero() {
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">Your Company</span>
-              <Image
-                src="https://placehold.co/60x40/png"
-                alt=""
-                height={40}
-                width={60}
-              />
+                <Image
+                  src="https://placehold.co/60x40/png"
+                  alt=""
+                  height={40}
+                  width={60}
+                />
               </a>
               <button
                 type="button"
